@@ -62,5 +62,12 @@
   "Design": "Design",
   "Art": "Art",
   "art mast": "Art Studio",
-  "mast grafik": "The artist can be contacted Monday to Friday from 9 am to 7 pm"
+  "mast grafik": "The artist can be contacted Monday to Friday from 9 am to 7 pm",
+  "Contact":"Contact",
+  "Deleviery":"Deleviery",
+  "Coop":"Cooperation",
+  "Order":"Order",
+  "coop":"COOPERATION",
+  "coop text":"Thank you for your interest in our creative workshop. Our mission is to promote contemporary artists and their works of art to collectors, hobbyists, and interior designers who are looking for new and upcoming talent in the art world. We do not charge any commission to our art sellers, you only pay a monthly membership fee for your profile on our platform",
+  "coop invite":"JOIN THE CREATIVE COMMUNITY"
 }

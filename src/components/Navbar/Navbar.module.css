@@ -84,9 +84,9 @@
 }
 
 .menu__title {
-  margin: 120px 0 0 0;
+  margin: 60px 0 0 0;
   font-family: "Roboto Flex";
-  font-size: 128px;
+  font-size: 96px;
   font-style: normal;
   font-weight: 900;
   line-height: 134px;
@@ -129,8 +129,8 @@
   }
 
   .menu__title {
-    margin: 120px 0 72px 0;
-    font-size: 104px;
+    margin: 60px 0 72px 0;
+    font-size: 96px;
     font-style: normal;
     font-weight: 900;
     line-height: 110px;
